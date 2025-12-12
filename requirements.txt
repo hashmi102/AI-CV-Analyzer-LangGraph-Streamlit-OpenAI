@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph
+openai
+PyPDF2
+pydantic
+python-dotenv
+langchain-openai
