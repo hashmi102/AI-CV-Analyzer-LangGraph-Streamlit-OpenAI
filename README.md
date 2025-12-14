@@ -19,7 +19,7 @@ This is designed as a beginner-friendly project to explore **Generative AI apps*
 - Process resume content using **LangGraph**
 - Generate AI-based scoring (Overall, Education, Skills)
 - Display results via a clean **Streamlit UI**
-- Works locally and easy to deploy
+- Works locally and is easy to deploy
 
 ---
 
