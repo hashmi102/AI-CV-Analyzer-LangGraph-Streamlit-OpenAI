@@ -6,7 +6,7 @@ The app allows users to **upload PDF resumes**, extracts their text, and generat
 - 🎓 Education Score  
 - 💼 Skills Score  
 - 📝 Text Extraction Preview  
-- 💡 AI-generated suggestions to improve your resume
+- 💡 AI resume improvement suggestions.
 
 This is designed as a beginner-friendly project to explore **Generative AI apps**, **graphs/agents**, and **document processing**.
 
