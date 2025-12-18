@@ -76,7 +76,6 @@ OPENAI_API_KEY=your_api_key_here
 streamlit run pdf_score.py
 ```
 
-The browser will open automatically at:
-
+Opens automatically in your browser at:
 ```
 http://localhost:8501
