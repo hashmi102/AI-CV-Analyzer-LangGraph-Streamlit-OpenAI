@@ -1,5 +1,5 @@
 # AI-CV-Analyzer-LangGraph-Streamlit-OpenAI
-An intelligent CV/Resume analysis tool built using **LangGraph**, **OpenAI GPT**, and **Streamlit**.  
+An intelligent CV/Resume analysis tool built with LangGraph, OpenAI GPT, and Streamlit.
 The app allows users to **upload PDF resumes**, extracts their text, and generates **structured scoring & feedback** such as:
 
 - ⭐ Overall CV Score  
