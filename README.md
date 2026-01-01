@@ -8,7 +8,7 @@ The app allows users to **upload PDF resumes**, extracts their text, and generat
 - 📝 Text Extraction Preview  
 - 💡 AI resume improvement suggestions.
 
-This is designed as a beginner-friendly project to explore **Generative AI apps**, **graphs/agents**, and **document processing**.
+A beginner-friendly project exploring generative AI apps, graphs/agents, and document processing.
 
 ---
 
